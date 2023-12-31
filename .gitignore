@@ -1,0 +1,17 @@
+# Python virtual environment
+venv-supabasedb-testing-app/
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+__pycache__/
+dist/
+build/
