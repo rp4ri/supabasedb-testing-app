@@ -1,5 +1,7 @@
 fastapi
 uvicorn
-psycopg2-binary
-SQLAlchemy
+supabase
 python-dotenv
+pydantic
+sqlalchemy
+asyncpg
