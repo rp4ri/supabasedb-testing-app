@@ -6,3 +6,4 @@ pydantic
 sqlalchemy
 asyncpg
 psycopg2
+alembic
